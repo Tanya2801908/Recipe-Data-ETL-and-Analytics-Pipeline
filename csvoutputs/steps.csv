@@ -1,0 +1,119 @@
+step_id,recipe_id,step_number,instruction
+recipe10_veg_biryani_step1,recipe10_veg_biryani,1,Turn burner ON and place pan.
+recipe10_veg_biryani_step2,recipe10_veg_biryani,2,Add oil and sauté the base for Veg Biryani.
+recipe10_veg_biryani_step3,recipe10_veg_biryani,3,Add main ingredients and cook thoroughly.
+recipe10_veg_biryani_step4,recipe10_veg_biryani,4,Turn burner OFF and let rest
+recipe10_veg_biryani_step5,recipe10_veg_biryani,5,Serve hot.
+recipe11_sambar_rice_step1,recipe11_sambar_rice,1,Turn burner ON and place pan.
+recipe11_sambar_rice_step2,recipe11_sambar_rice,2,Add oil and sauté the base for Sambar Rice.
+recipe11_sambar_rice_step3,recipe11_sambar_rice,3,Add main ingredients and cook thoroughly.
+recipe11_sambar_rice_step4,recipe11_sambar_rice,4,Turn burner OFF and let rest
+recipe11_sambar_rice_step5,recipe11_sambar_rice,5,Serve hot.
+recipe12_poha_step1,recipe12_poha,1,Turn burner ON and place pan.
+recipe12_poha_step2,recipe12_poha,2,Add oil and sauté the base for Poha.
+recipe12_poha_step3,recipe12_poha,3,Add main ingredients and cook thoroughly.
+recipe12_poha_step4,recipe12_poha,4,Turn burner OFF and let rest
+recipe12_poha_step5,recipe12_poha,5,Serve hot.
+recipe13_upma_step1,recipe13_upma,1,Turn burner ON and place pan.
+recipe13_upma_step2,recipe13_upma,2,Add oil and sauté the base for Upma.
+recipe13_upma_step3,recipe13_upma,3,Add main ingredients and cook thoroughly.
+recipe13_upma_step4,recipe13_upma,4,Turn burner OFF and let rest
+recipe13_upma_step5,recipe13_upma,5,Serve hot.
+recipe14_roti_sabzi_step1,recipe14_roti_sabzi,1,Turn burner ON and place pan.
+recipe14_roti_sabzi_step2,recipe14_roti_sabzi,2,Add oil and sauté the base for Roti Sabzi.
+recipe14_roti_sabzi_step3,recipe14_roti_sabzi,3,Add main ingredients and cook thoroughly.
+recipe14_roti_sabzi_step4,recipe14_roti_sabzi,4,Turn burner OFF and let rest
+recipe14_roti_sabzi_step5,recipe14_roti_sabzi,5,Serve hot.
+recipe15_paneer_butter_masala_step1,recipe15_paneer_butter_masala,1,Turn burner ON and place pan.
+recipe15_paneer_butter_masala_step2,recipe15_paneer_butter_masala,2,Add oil and sauté the base for Paneer Butter Masala.
+recipe15_paneer_butter_masala_step3,recipe15_paneer_butter_masala,3,Add main ingredients and cook thoroughly.
+recipe15_paneer_butter_masala_step4,recipe15_paneer_butter_masala,4,Turn burner OFF and let rest
+recipe15_paneer_butter_masala_step5,recipe15_paneer_butter_masala,5,Serve hot.
+recipe16_mixed_veg_curry_step1,recipe16_mixed_veg_curry,1,Turn burner ON and place pan.
+recipe16_mixed_veg_curry_step2,recipe16_mixed_veg_curry,2,Add oil and sauté the base for Mixed Veg Curry.
+recipe16_mixed_veg_curry_step3,recipe16_mixed_veg_curry,3,Add main ingredients and cook thoroughly.
+recipe16_mixed_veg_curry_step4,recipe16_mixed_veg_curry,4,Turn burner OFF and let rest
+recipe16_mixed_veg_curry_step5,recipe16_mixed_veg_curry,5,Serve hot.
+recipe17_tomato_soup_step1,recipe17_tomato_soup,1,Turn burner ON and place pan.
+recipe17_tomato_soup_step2,recipe17_tomato_soup,2,Add oil and sauté the base for Tomato Soup.
+recipe17_tomato_soup_step3,recipe17_tomato_soup,3,Add main ingredients and cook thoroughly.
+recipe17_tomato_soup_step4,recipe17_tomato_soup,4,Turn burner OFF and let rest
+recipe17_tomato_soup_step5,recipe17_tomato_soup,5,Serve hot.
+recipe18_veg_sandwich_step1,recipe18_veg_sandwich,1,Turn burner ON and place pan.
+recipe18_veg_sandwich_step2,recipe18_veg_sandwich,2,Add oil and sauté the base for Veg Sandwich.
+recipe18_veg_sandwich_step3,recipe18_veg_sandwich,3,Add main ingredients and cook thoroughly.
+recipe18_veg_sandwich_step4,recipe18_veg_sandwich,4,Turn burner OFF and let rest
+recipe18_veg_sandwich_step5,recipe18_veg_sandwich,5,Serve hot.
+recipe19_fruit_salad_step1,recipe19_fruit_salad,1,Turn burner ON and place pan.
+recipe19_fruit_salad_step2,recipe19_fruit_salad,2,Add oil and sauté the base for Fruit Salad.
+recipe19_fruit_salad_step3,recipe19_fruit_salad,3,Add main ingredients and cook thoroughly.
+recipe19_fruit_salad_step4,recipe19_fruit_salad,4,Turn burner OFF and let rest
+recipe19_fruit_salad_step5,recipe19_fruit_salad,5,Serve hot.
+recipe1_paneer_curry_with_chapati_step1,recipe1_paneer_curry_with_chapati,1,Turn the burner ON and place a heavy-bottomed pan on the burner.
+recipe1_paneer_curry_with_chapati_step2,recipe1_paneer_curry_with_chapati,2,Pour 2 tbsp oil into the pan and let it heat for 30-45 seconds.
+recipe1_paneer_curry_with_chapati_step3,recipe1_paneer_curry_with_chapati,3,Add 1 tsp cumin seeds and wait for them to crackle.
+recipe1_paneer_curry_with_chapati_step4,recipe1_paneer_curry_with_chapati,4,Add chopped onions and sauté on medium flame until they turn golden brown (about 6-8 minutes).
+recipe1_paneer_curry_with_chapati_step5,recipe1_paneer_curry_with_chapati,5,Add 1 tbsp ginger-garlic paste and sauté for 1 minute until raw smell disappears.
+recipe1_paneer_curry_with_chapati_step6,recipe1_paneer_curry_with_chapati,6,"Add tomato puree, mix, and cook until oil starts separating from the masala (approx 6-8 minutes)."
+recipe1_paneer_curry_with_chapati_step7,recipe1_paneer_curry_with_chapati,7,"Add turmeric (1/4 tsp), red chilli (1/2 tsp), coriander powder (1 tbsp) and salt; stir and cook 1-2 minutes."
+recipe1_paneer_curry_with_chapati_step8,recipe1_paneer_curry_with_chapati,8,"Turn the burner to LOW, add 30 g curd and stir continuously to avoid curdling."
+recipe1_paneer_curry_with_chapati_step9,recipe1_paneer_curry_with_chapati,9,"Add 200 g paneer cubes, mix gently so paneer doesn’t break. Add 1/2 tsp garam masala and kasuri methi; simmer for 4-5 minutes on LOW."
+recipe1_paneer_curry_with_chapati_step10,recipe1_paneer_curry_with_chapati,10,"Optional: add 1 tbsp fresh cream, mix and cook for 1 minute."
+recipe1_paneer_curry_with_chapati_step11,recipe1_paneer_curry_with_chapati,11,Turn the burner OFF and garnish with coriander leaves. Keep curry covered and warm.
+recipe1_paneer_curry_with_chapati_step12,recipe1_paneer_curry_with_chapati,12,"For chapati: place a mixing bowl, add 3-4 cups whole wheat flour, a pinch of salt and 2-3 cups water gradually. Knead into a soft pliable dough."
+recipe1_paneer_curry_with_chapati_step13,recipe1_paneer_curry_with_chapati,13,Cover the dough with a wet cotton cloth and let it rest for 10 minutes.
+recipe1_paneer_curry_with_chapati_step14,recipe1_paneer_curry_with_chapati,14,"After resting, divide dough into equal small balls, roll into flat discs using a rolling pin on a lightly floured surface."
+recipe1_paneer_curry_with_chapati_step15,recipe1_paneer_curry_with_chapati,15,Turn the burner ON and heat a tawa (flat griddle). Place the rolled chapati on the hot tawa.
+recipe1_paneer_curry_with_chapati_step16,recipe1_paneer_curry_with_chapati,16,"Cook until small bubbles form, flip and cook the other side until brown spots appear. Apply a little ghee or oil if desired."
+recipe1_paneer_curry_with_chapati_step17,recipe1_paneer_curry_with_chapati,17,"Remove chapati, keep covered in a cloth to keep soft. Repeat for remaining dough."
+recipe1_paneer_curry_with_chapati_step18,recipe1_paneer_curry_with_chapati,18,Serve hot paneer curry with freshly made chapatis.
+recipe20_jeera_rice_step1,recipe20_jeera_rice,1,Turn burner ON and place pan.
+recipe20_jeera_rice_step2,recipe20_jeera_rice,2,Add oil and sauté the base for Jeera Rice.
+recipe20_jeera_rice_step3,recipe20_jeera_rice,3,Add main ingredients and cook thoroughly.
+recipe20_jeera_rice_step4,recipe20_jeera_rice,4,Turn burner OFF and let rest
+recipe20_jeera_rice_step5,recipe20_jeera_rice,5,Serve hot.
+recipe21_curd_rice_step1,recipe21_curd_rice,1,Turn burner ON and place pan.
+recipe21_curd_rice_step2,recipe21_curd_rice,2,Add oil and sauté the base for Curd Rice.
+recipe21_curd_rice_step3,recipe21_curd_rice,3,Add main ingredients and cook thoroughly.
+recipe21_curd_rice_step4,recipe21_curd_rice,4,Turn burner OFF and let rest
+recipe21_curd_rice_step5,recipe21_curd_rice,5,Serve hot.
+recipe2_veg_fried_rice_step1,recipe2_veg_fried_rice,1,Turn burner ON and place pan.
+recipe2_veg_fried_rice_step2,recipe2_veg_fried_rice,2,Add oil and sauté the base for Veg Fried Rice.
+recipe2_veg_fried_rice_step3,recipe2_veg_fried_rice,3,Add main ingredients and cook thoroughly.
+recipe2_veg_fried_rice_step4,recipe2_veg_fried_rice,4,Turn burner OFF and let rest
+recipe2_veg_fried_rice_step5,recipe2_veg_fried_rice,5,Serve hot.
+recipe3_masala_dosa_step1,recipe3_masala_dosa,1,Turn burner ON and place pan.
+recipe3_masala_dosa_step2,recipe3_masala_dosa,2,Add oil and sauté the base for Masala Dosa.
+recipe3_masala_dosa_step3,recipe3_masala_dosa,3,Add main ingredients and cook thoroughly.
+recipe3_masala_dosa_step4,recipe3_masala_dosa,4,Turn burner OFF and let rest
+recipe3_masala_dosa_step5,recipe3_masala_dosa,5,Serve hot.
+recipe4_aloo_paratha_step1,recipe4_aloo_paratha,1,Turn burner ON and place pan.
+recipe4_aloo_paratha_step2,recipe4_aloo_paratha,2,Add oil and sauté the base for Aloo Paratha.
+recipe4_aloo_paratha_step3,recipe4_aloo_paratha,3,Add main ingredients and cook thoroughly.
+recipe4_aloo_paratha_step4,recipe4_aloo_paratha,4,Turn burner OFF and let rest
+recipe4_aloo_paratha_step5,recipe4_aloo_paratha,5,Serve hot.
+recipe5_chicken_curry_step1,recipe5_chicken_curry,1,Turn burner ON and place pan.
+recipe5_chicken_curry_step2,recipe5_chicken_curry,2,Add oil and sauté the base for Chicken Curry.
+recipe5_chicken_curry_step3,recipe5_chicken_curry,3,Add main ingredients and cook thoroughly.
+recipe5_chicken_curry_step4,recipe5_chicken_curry,4,Turn burner OFF and let rest
+recipe5_chicken_curry_step5,recipe5_chicken_curry,5,Serve hot.
+recipe6_egg_bhurji_step1,recipe6_egg_bhurji,1,Turn burner ON and place pan.
+recipe6_egg_bhurji_step2,recipe6_egg_bhurji,2,Add oil and sauté the base for Egg Bhurji.
+recipe6_egg_bhurji_step3,recipe6_egg_bhurji,3,Add main ingredients and cook thoroughly.
+recipe6_egg_bhurji_step4,recipe6_egg_bhurji,4,Turn burner OFF and let rest
+recipe6_egg_bhurji_step5,recipe6_egg_bhurji,5,Serve hot.
+recipe7_dal_tadka_step1,recipe7_dal_tadka,1,Turn burner ON and place pan.
+recipe7_dal_tadka_step2,recipe7_dal_tadka,2,Add oil and sauté the base for Dal Tadka.
+recipe7_dal_tadka_step3,recipe7_dal_tadka,3,Add main ingredients and cook thoroughly.
+recipe7_dal_tadka_step4,recipe7_dal_tadka,4,Turn burner OFF and let rest
+recipe7_dal_tadka_step5,recipe7_dal_tadka,5,Serve hot.
+recipe8_chole_bhature_step1,recipe8_chole_bhature,1,Turn burner ON and place pan.
+recipe8_chole_bhature_step2,recipe8_chole_bhature,2,Add oil and sauté the base for Chole Bhature.
+recipe8_chole_bhature_step3,recipe8_chole_bhature,3,Add main ingredients and cook thoroughly.
+recipe8_chole_bhature_step4,recipe8_chole_bhature,4,Turn burner OFF and let rest
+recipe8_chole_bhature_step5,recipe8_chole_bhature,5,Serve hot.
+recipe9_pasta_alfredo_step1,recipe9_pasta_alfredo,1,Turn burner ON and place pan.
+recipe9_pasta_alfredo_step2,recipe9_pasta_alfredo,2,Add oil and sauté the base for Pasta Alfredo.
+recipe9_pasta_alfredo_step3,recipe9_pasta_alfredo,3,Add main ingredients and cook thoroughly.
+recipe9_pasta_alfredo_step4,recipe9_pasta_alfredo,4,Turn burner OFF and let rest
+recipe9_pasta_alfredo_step5,recipe9_pasta_alfredo,5,Serve hot.

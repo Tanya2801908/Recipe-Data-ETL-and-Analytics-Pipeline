@@ -1,0 +1,86 @@
+insight_name,insight_value
+Most Common Ingredients (Top 10),"ingredient_name
+salt                        21
+oil                         21
+veg biryani ingredient a     1
+veg biryani ingredient b     1
+sambar rice ingredient a     1
+sambar rice ingredient b     1
+poha ingredient a            1
+poha ingredient b            1
+upma ingredient a            1
+upma ingredient b            1"
+Average Preparation Time,23.86 minutes
+Average Cooking Time,36.38 minutes
+Difficulty Distribution,"difficulty
+Medium    9
+Easy      8
+Hard      4"
+Correlation (Prep Time vs Likes),0.077
+Most Viewed Recipes (Top 10),"name
+Veg Biryani                  375
+Chole Bhature                373
+Veg Fried Rice               331
+Mixed Veg Curry              313
+Dal Tadka                    279
+Jeera Rice                   258
+Aloo Paratha                 255
+Chicken Curry                252
+Paneer Curry with Chapati    243
+Roti Sabzi                   188"
+High Engagement Ingredients (Top 10),"ingredient_name
+Curd                                 1.0
+Coriander Powder                     1.0
+Coriander Leaves                     1.0
+Ghee / Oil (for cooking)             1.0
+Ginger-Garlic Paste                  1.0
+Green Chillies                       1.0
+Kasuri Methi                         1.0
+Fresh Cream                          1.0
+Garam Masala                         1.0
+Paneer Butter Masala Ingredient B    1.0"
+Top Rated Recipes (Top 10),"name
+Mixed Veg Curry    4.70
+Veg Biryani        4.70
+Upma               4.50
+Veg Fried Rice     4.40
+Pasta Alfredo      4.30
+Tomato Soup        4.25
+Aloo Paratha       4.20
+Egg Bhurji         4.20
+Fruit Salad        4.15
+Veg Sandwich       4.05"
+Most Liked Recipes (Top 10),"name
+Paneer Curry with Chapati    2
+Paneer Butter Masala         2
+Veg Fried Rice               2
+Chole Bhature                1
+Chicken Curry                1
+Veg Sandwich                 1
+Roti Sabzi                   1
+Sambar Rice                  1
+Egg Bhurji                   1
+Mixed Veg Curry              1"
+Average Ingredients Per Recipe,4.71
+Recipes With Most Ingredients (Top 10),"recipe_id
+recipe1_paneer_curry_with_chapati    19
+recipe11_sambar_rice                  4
+recipe12_poha                         4
+recipe13_upma                         4
+recipe10_veg_biryani                  4
+recipe14_roti_sabzi                   4
+recipe15_paneer_butter_masala         4
+recipe17_tomato_soup                  4
+recipe16_mixed_veg_curry              4
+recipe18_veg_sandwich                 4"
+Highest Engagement Recipes (Top 10),"name
+Chole Bhature                378
+Veg Biryani                  378
+Veg Fried Rice               336
+Mixed Veg Curry              319
+Dal Tadka                    283
+Jeera Rice                   263
+Aloo Paratha                 259
+Chicken Curry                256
+Paneer Curry with Chapati    245
+Roti Sabzi                   191"

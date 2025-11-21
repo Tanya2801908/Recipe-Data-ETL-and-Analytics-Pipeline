@@ -1,0 +1,100 @@
+ingredient_id,recipe_id,ingredient_name,quantity
+recipe10_veg_biryani_ing1,recipe10_veg_biryani,Veg Biryani Ingredient A,1 unit
+recipe10_veg_biryani_ing2,recipe10_veg_biryani,Veg Biryani Ingredient B,2 units
+recipe10_veg_biryani_ing3,recipe10_veg_biryani,Salt,to taste
+recipe10_veg_biryani_ing4,recipe10_veg_biryani,Oil,1 tbsp
+recipe11_sambar_rice_ing1,recipe11_sambar_rice,Sambar Rice Ingredient A,1 unit
+recipe11_sambar_rice_ing2,recipe11_sambar_rice,Sambar Rice Ingredient B,2 units
+recipe11_sambar_rice_ing3,recipe11_sambar_rice,Salt,to taste
+recipe11_sambar_rice_ing4,recipe11_sambar_rice,Oil,1 tbsp
+recipe12_poha_ing1,recipe12_poha,Poha Ingredient A,1 unit
+recipe12_poha_ing2,recipe12_poha,Poha Ingredient B,2 units
+recipe12_poha_ing3,recipe12_poha,Salt,to taste
+recipe12_poha_ing4,recipe12_poha,Oil,1 tbsp
+recipe13_upma_ing1,recipe13_upma,Upma Ingredient A,1 unit
+recipe13_upma_ing2,recipe13_upma,Upma Ingredient B,2 units
+recipe13_upma_ing3,recipe13_upma,Salt,to taste
+recipe13_upma_ing4,recipe13_upma,Oil,1 tbsp
+recipe14_roti_sabzi_ing1,recipe14_roti_sabzi,Roti Sabzi Ingredient A,1 unit
+recipe14_roti_sabzi_ing2,recipe14_roti_sabzi,Roti Sabzi Ingredient B,2 units
+recipe14_roti_sabzi_ing3,recipe14_roti_sabzi,Salt,to taste
+recipe14_roti_sabzi_ing4,recipe14_roti_sabzi,Oil,1 tbsp
+recipe15_paneer_butter_masala_ing1,recipe15_paneer_butter_masala,Paneer Butter Masala Ingredient A,1 unit
+recipe15_paneer_butter_masala_ing2,recipe15_paneer_butter_masala,Paneer Butter Masala Ingredient B,2 units
+recipe15_paneer_butter_masala_ing3,recipe15_paneer_butter_masala,Salt,to taste
+recipe15_paneer_butter_masala_ing4,recipe15_paneer_butter_masala,Oil,1 tbsp
+recipe16_mixed_veg_curry_ing1,recipe16_mixed_veg_curry,Mixed Veg Curry Ingredient A,1 unit
+recipe16_mixed_veg_curry_ing2,recipe16_mixed_veg_curry,Mixed Veg Curry Ingredient B,2 units
+recipe16_mixed_veg_curry_ing3,recipe16_mixed_veg_curry,Salt,to taste
+recipe16_mixed_veg_curry_ing4,recipe16_mixed_veg_curry,Oil,1 tbsp
+recipe17_tomato_soup_ing1,recipe17_tomato_soup,Tomato Soup Ingredient A,1 unit
+recipe17_tomato_soup_ing2,recipe17_tomato_soup,Tomato Soup Ingredient B,2 units
+recipe17_tomato_soup_ing3,recipe17_tomato_soup,Salt,to taste
+recipe17_tomato_soup_ing4,recipe17_tomato_soup,Oil,1 tbsp
+recipe18_veg_sandwich_ing1,recipe18_veg_sandwich,Veg Sandwich Ingredient A,1 unit
+recipe18_veg_sandwich_ing2,recipe18_veg_sandwich,Veg Sandwich Ingredient B,2 units
+recipe18_veg_sandwich_ing3,recipe18_veg_sandwich,Salt,to taste
+recipe18_veg_sandwich_ing4,recipe18_veg_sandwich,Oil,1 tbsp
+recipe19_fruit_salad_ing1,recipe19_fruit_salad,Fruit Salad Ingredient A,1 unit
+recipe19_fruit_salad_ing2,recipe19_fruit_salad,Fruit Salad Ingredient B,2 units
+recipe19_fruit_salad_ing3,recipe19_fruit_salad,Salt,to taste
+recipe19_fruit_salad_ing4,recipe19_fruit_salad,Oil,1 tbsp
+recipe1_paneer_curry_with_chapati_ing1,recipe1_paneer_curry_with_chapati,Paneer,200 g
+recipe1_paneer_curry_with_chapati_ing2,recipe1_paneer_curry_with_chapati,Onion,"3 to 4, chopped"
+recipe1_paneer_curry_with_chapati_ing3,recipe1_paneer_curry_with_chapati,Tomato,"2, pureed"
+recipe1_paneer_curry_with_chapati_ing4,recipe1_paneer_curry_with_chapati,Green Chillies,"2, slit"
+recipe1_paneer_curry_with_chapati_ing5,recipe1_paneer_curry_with_chapati,Ginger-Garlic Paste,1 tbsp
+recipe1_paneer_curry_with_chapati_ing6,recipe1_paneer_curry_with_chapati,Turmeric Powder,1/4 tsp
+recipe1_paneer_curry_with_chapati_ing7,recipe1_paneer_curry_with_chapati,Red Chilli Powder,1/2 tsp
+recipe1_paneer_curry_with_chapati_ing8,recipe1_paneer_curry_with_chapati,Coriander Powder,1 tbsp
+recipe1_paneer_curry_with_chapati_ing9,recipe1_paneer_curry_with_chapati,Garam Masala,1/2 tsp
+recipe1_paneer_curry_with_chapati_ing10,recipe1_paneer_curry_with_chapati,Kasuri Methi,1 tsp
+recipe1_paneer_curry_with_chapati_ing11,recipe1_paneer_curry_with_chapati,Curd,30 g
+recipe1_paneer_curry_with_chapati_ing12,recipe1_paneer_curry_with_chapati,Fresh Cream,1 tbsp (optional)
+recipe1_paneer_curry_with_chapati_ing13,recipe1_paneer_curry_with_chapati,Oil,2 tbsp
+recipe1_paneer_curry_with_chapati_ing14,recipe1_paneer_curry_with_chapati,Salt,to taste
+recipe1_paneer_curry_with_chapati_ing15,recipe1_paneer_curry_with_chapati,Coriander Leaves,3-4 sprigs
+recipe1_paneer_curry_with_chapati_ing16,recipe1_paneer_curry_with_chapati,Whole Wheat Flour (for chapati),3-4 cups
+recipe1_paneer_curry_with_chapati_ing17,recipe1_paneer_curry_with_chapati,Water,2-3 cups (for dough)
+recipe1_paneer_curry_with_chapati_ing18,recipe1_paneer_curry_with_chapati,Ghee / Oil (for cooking),1 tsp optional
+recipe1_paneer_curry_with_chapati_ing19,recipe1_paneer_curry_with_chapati,Wet cotton cloth,for covering dough
+recipe20_jeera_rice_ing1,recipe20_jeera_rice,Jeera Rice Ingredient A,1 unit
+recipe20_jeera_rice_ing2,recipe20_jeera_rice,Jeera Rice Ingredient B,2 units
+recipe20_jeera_rice_ing3,recipe20_jeera_rice,Salt,to taste
+recipe20_jeera_rice_ing4,recipe20_jeera_rice,Oil,1 tbsp
+recipe21_curd_rice_ing1,recipe21_curd_rice,Curd Rice Ingredient A,1 unit
+recipe21_curd_rice_ing2,recipe21_curd_rice,Curd Rice Ingredient B,2 units
+recipe21_curd_rice_ing3,recipe21_curd_rice,Salt,to taste
+recipe21_curd_rice_ing4,recipe21_curd_rice,Oil,1 tbsp
+recipe2_veg_fried_rice_ing1,recipe2_veg_fried_rice,Veg Fried Rice Ingredient A,1 unit
+recipe2_veg_fried_rice_ing2,recipe2_veg_fried_rice,Veg Fried Rice Ingredient B,2 units
+recipe2_veg_fried_rice_ing3,recipe2_veg_fried_rice,Salt,to taste
+recipe2_veg_fried_rice_ing4,recipe2_veg_fried_rice,Oil,1 tbsp
+recipe3_masala_dosa_ing1,recipe3_masala_dosa,Masala Dosa Ingredient A,1 unit
+recipe3_masala_dosa_ing2,recipe3_masala_dosa,Masala Dosa Ingredient B,2 units
+recipe3_masala_dosa_ing3,recipe3_masala_dosa,Salt,to taste
+recipe3_masala_dosa_ing4,recipe3_masala_dosa,Oil,1 tbsp
+recipe4_aloo_paratha_ing1,recipe4_aloo_paratha,Aloo Paratha Ingredient A,1 unit
+recipe4_aloo_paratha_ing2,recipe4_aloo_paratha,Aloo Paratha Ingredient B,2 units
+recipe4_aloo_paratha_ing3,recipe4_aloo_paratha,Salt,to taste
+recipe4_aloo_paratha_ing4,recipe4_aloo_paratha,Oil,1 tbsp
+recipe5_chicken_curry_ing1,recipe5_chicken_curry,Chicken Curry Ingredient A,1 unit
+recipe5_chicken_curry_ing2,recipe5_chicken_curry,Chicken Curry Ingredient B,2 units
+recipe5_chicken_curry_ing3,recipe5_chicken_curry,Salt,to taste
+recipe5_chicken_curry_ing4,recipe5_chicken_curry,Oil,1 tbsp
+recipe6_egg_bhurji_ing1,recipe6_egg_bhurji,Egg Bhurji Ingredient A,1 unit
+recipe6_egg_bhurji_ing2,recipe6_egg_bhurji,Egg Bhurji Ingredient B,2 units
+recipe6_egg_bhurji_ing3,recipe6_egg_bhurji,Salt,to taste
+recipe6_egg_bhurji_ing4,recipe6_egg_bhurji,Oil,1 tbsp
+recipe7_dal_tadka_ing1,recipe7_dal_tadka,Dal Tadka Ingredient A,1 unit
+recipe7_dal_tadka_ing2,recipe7_dal_tadka,Dal Tadka Ingredient B,2 units
+recipe7_dal_tadka_ing3,recipe7_dal_tadka,Salt,to taste
+recipe7_dal_tadka_ing4,recipe7_dal_tadka,Oil,1 tbsp
+recipe8_chole_bhature_ing1,recipe8_chole_bhature,Chole Bhature Ingredient A,1 unit
+recipe8_chole_bhature_ing2,recipe8_chole_bhature,Chole Bhature Ingredient B,2 units
+recipe8_chole_bhature_ing3,recipe8_chole_bhature,Salt,to taste
+recipe8_chole_bhature_ing4,recipe8_chole_bhature,Oil,1 tbsp
+recipe9_pasta_alfredo_ing1,recipe9_pasta_alfredo,Pasta Alfredo Ingredient A,1 unit
+recipe9_pasta_alfredo_ing2,recipe9_pasta_alfredo,Pasta Alfredo Ingredient B,2 units
+recipe9_pasta_alfredo_ing3,recipe9_pasta_alfredo,Salt,to taste
+recipe9_pasta_alfredo_ing4,recipe9_pasta_alfredo,Oil,1 tbsp

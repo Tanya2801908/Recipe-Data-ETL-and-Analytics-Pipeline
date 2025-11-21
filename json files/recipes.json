@@ -1,0 +1,852 @@
+[
+    {
+        "servings": 5,
+        "ingredients": [
+            {
+                "quantity": "1 unit",
+                "name": "Veg Biryani Ingredient A"
+            },
+            {
+                "quantity": "2 units",
+                "name": "Veg Biryani Ingredient B"
+            },
+            {
+                "quantity": "to taste",
+                "name": "Salt"
+            },
+            {
+                "quantity": "1 tbsp",
+                "name": "Oil"
+            }
+        ],
+        "description": "Synthetic recipe for Veg Biryani used for testing and analytics.",
+        "created_at": "2025-11-20T10:05:12Z",
+        "prep_time": 13,
+        "category": "Indian/International",
+        "cook_time": 25,
+        "steps": [
+            "Turn burner ON and place pan.",
+            "Add oil and sauté the base for Veg Biryani.",
+            "Add main ingredients and cook thoroughly.",
+            "Turn burner OFF and let rest",
+            "Serve hot."
+        ],
+        "difficulty": "Easy",
+        "recipe_id": "recipe10_veg_biryani",
+        "name": "Veg Biryani",
+        "id": "recipe10_veg_biryani"
+    },
+    {
+        "servings": 3,
+        "ingredients": [
+            {
+                "quantity": "1 unit",
+                "name": "Sambar Rice Ingredient A"
+            },
+            {
+                "quantity": "2 units",
+                "name": "Sambar Rice Ingredient B"
+            },
+            {
+                "quantity": "to taste",
+                "name": "Salt"
+            },
+            {
+                "quantity": "1 tbsp",
+                "name": "Oil"
+            }
+        ],
+        "description": "Synthetic recipe for Sambar Rice used for testing and analytics.",
+        "created_at": "2025-11-20T10:05:12Z",
+        "prep_time": 23,
+        "category": "Indian/International",
+        "cook_time": 55,
+        "steps": [
+            "Turn burner ON and place pan.",
+            "Add oil and sauté the base for Sambar Rice.",
+            "Add main ingredients and cook thoroughly.",
+            "Turn burner OFF and let rest",
+            "Serve hot."
+        ],
+        "difficulty": "Easy",
+        "recipe_id": "recipe11_sambar_rice",
+        "name": "Sambar Rice",
+        "id": "recipe11_sambar_rice"
+    },
+    {
+        "servings": 3,
+        "ingredients": [
+            {
+                "quantity": "1 unit",
+                "name": "Poha Ingredient A"
+            },
+            {
+                "quantity": "2 units",
+                "name": "Poha Ingredient B"
+            },
+            {
+                "quantity": "to taste",
+                "name": "Salt"
+            },
+            {
+                "quantity": "1 tbsp",
+                "name": "Oil"
+            }
+        ],
+        "description": "Synthetic recipe for Poha used for testing and analytics.",
+        "created_at": "2025-11-20T10:05:12Z",
+        "prep_time": 30,
+        "category": "Indian/International",
+        "cook_time": 34,
+        "steps": [
+            "Turn burner ON and place pan.",
+            "Add oil and sauté the base for Poha.",
+            "Add main ingredients and cook thoroughly.",
+            "Turn burner OFF and let rest",
+            "Serve hot."
+        ],
+        "difficulty": "Easy",
+        "recipe_id": "recipe12_poha",
+        "name": "Poha",
+        "id": "recipe12_poha"
+    },
+    {
+        "servings": 3,
+        "ingredients": [
+            {
+                "quantity": "1 unit",
+                "name": "Upma Ingredient A"
+            },
+            {
+                "quantity": "2 units",
+                "name": "Upma Ingredient B"
+            },
+            {
+                "quantity": "to taste",
+                "name": "Salt"
+            },
+            {
+                "quantity": "1 tbsp",
+                "name": "Oil"
+            }
+        ],
+        "description": "Synthetic recipe for Upma used for testing and analytics.",
+        "created_at": "2025-11-20T10:05:12Z",
+        "prep_time": 22,
+        "category": "Indian",
+        "cook_time": 26,
+        "steps": [
+            "Turn burner ON and place pan.",
+            "Add oil and sauté the base for Upma.",
+            "Add main ingredients and cook thoroughly.",
+            "Turn burner OFF and let rest",
+            "Serve hot."
+        ],
+        "difficulty": "Medium",
+        "recipe_id": "recipe13_upma",
+        "name": "Upma",
+        "id": "recipe13_upma"
+    },
+    {
+        "servings": 3,
+        "ingredients": [
+            {
+                "quantity": "1 unit",
+                "name": "Roti Sabzi Ingredient A"
+            },
+            {
+                "quantity": "2 units",
+                "name": "Roti Sabzi Ingredient B"
+            },
+            {
+                "quantity": "to taste",
+                "name": "Salt"
+            },
+            {
+                "quantity": "1 tbsp",
+                "name": "Oil"
+            }
+        ],
+        "description": "Synthetic recipe for Roti Sabzi used for testing and analytics.",
+        "created_at": "2025-11-20T10:05:12Z",
+        "prep_time": 30,
+        "category": "International",
+        "cook_time": 11,
+        "steps": [
+            "Turn burner ON and place pan.",
+            "Add oil and sauté the base for Roti Sabzi.",
+            "Add main ingredients and cook thoroughly.",
+            "Turn burner OFF and let rest",
+            "Serve hot."
+        ],
+        "difficulty": "Easy",
+        "recipe_id": "recipe14_roti_sabzi",
+        "name": "Roti Sabzi",
+        "id": "recipe14_roti_sabzi"
+    },
+    {
+        "servings": 5,
+        "ingredients": [
+            {
+                "quantity": "1 unit",
+                "name": "Paneer Butter Masala Ingredient A"
+            },
+            {
+                "quantity": "2 units",
+                "name": "Paneer Butter Masala Ingredient B"
+            },
+            {
+                "quantity": "to taste",
+                "name": "Salt"
+            },
+            {
+                "quantity": "1 tbsp",
+                "name": "Oil"
+            }
+        ],
+        "description": "Synthetic recipe for Paneer Butter Masala used for testing and analytics.",
+        "created_at": "2025-11-20T10:05:12Z",
+        "prep_time": 10,
+        "category": "Indian",
+        "cook_time": 22,
+        "steps": [
+            "Turn burner ON and place pan.",
+            "Add oil and sauté the base for Paneer Butter Masala.",
+            "Add main ingredients and cook thoroughly.",
+            "Turn burner OFF and let rest",
+            "Serve hot."
+        ],
+        "difficulty": "Easy",
+        "recipe_id": "recipe15_paneer_butter_masala",
+        "name": "Paneer Butter Masala",
+        "id": "recipe15_paneer_butter_masala"
+    },
+    {
+        "servings": 3,
+        "ingredients": [
+            {
+                "quantity": "1 unit",
+                "name": "Mixed Veg Curry Ingredient A"
+            },
+            {
+                "quantity": "2 units",
+                "name": "Mixed Veg Curry Ingredient B"
+            },
+            {
+                "quantity": "to taste",
+                "name": "Salt"
+            },
+            {
+                "quantity": "1 tbsp",
+                "name": "Oil"
+            }
+        ],
+        "description": "Synthetic recipe for Mixed Veg Curry used for testing and analytics.",
+        "created_at": "2025-11-20T10:05:12Z",
+        "prep_time": 15,
+        "category": "International",
+        "cook_time": 43,
+        "steps": [
+            "Turn burner ON and place pan.",
+            "Add oil and sauté the base for Mixed Veg Curry.",
+            "Add main ingredients and cook thoroughly.",
+            "Turn burner OFF and let rest",
+            "Serve hot."
+        ],
+        "difficulty": "Medium",
+        "recipe_id": "recipe16_mixed_veg_curry",
+        "name": "Mixed Veg Curry",
+        "id": "recipe16_mixed_veg_curry"
+    },
+    {
+        "servings": 1,
+        "ingredients": [
+            {
+                "quantity": "1 unit",
+                "name": "Tomato Soup Ingredient A"
+            },
+            {
+                "quantity": "2 units",
+                "name": "Tomato Soup Ingredient B"
+            },
+            {
+                "quantity": "to taste",
+                "name": "Salt"
+            },
+            {
+                "quantity": "1 tbsp",
+                "name": "Oil"
+            }
+        ],
+        "description": "Synthetic recipe for Tomato Soup used for testing and analytics.",
+        "created_at": "2025-11-20T10:05:12Z",
+        "prep_time": 13,
+        "category": "International",
+        "cook_time": 44,
+        "steps": [
+            "Turn burner ON and place pan.",
+            "Add oil and sauté the base for Tomato Soup.",
+            "Add main ingredients and cook thoroughly.",
+            "Turn burner OFF and let rest",
+            "Serve hot."
+        ],
+        "difficulty": "Hard",
+        "recipe_id": "recipe17_tomato_soup",
+        "name": "Tomato Soup",
+        "id": "recipe17_tomato_soup"
+    },
+    {
+        "servings": 5,
+        "ingredients": [
+            {
+                "quantity": "1 unit",
+                "name": "Veg Sandwich Ingredient A"
+            },
+            {
+                "quantity": "2 units",
+                "name": "Veg Sandwich Ingredient B"
+            },
+            {
+                "quantity": "to taste",
+                "name": "Salt"
+            },
+            {
+                "quantity": "1 tbsp",
+                "name": "Oil"
+            }
+        ],
+        "description": "Synthetic recipe for Veg Sandwich used for testing and analytics.",
+        "created_at": "2025-11-20T10:05:12Z",
+        "prep_time": 24,
+        "category": "Indian",
+        "cook_time": 7,
+        "steps": [
+            "Turn burner ON and place pan.",
+            "Add oil and sauté the base for Veg Sandwich.",
+            "Add main ingredients and cook thoroughly.",
+            "Turn burner OFF and let rest",
+            "Serve hot."
+        ],
+        "difficulty": "Easy",
+        "recipe_id": "recipe18_veg_sandwich",
+        "name": "Veg Sandwich",
+        "id": "recipe18_veg_sandwich"
+    },
+    {
+        "servings": 2,
+        "ingredients": [
+            {
+                "quantity": "1 unit",
+                "name": "Fruit Salad Ingredient A"
+            },
+            {
+                "quantity": "2 units",
+                "name": "Fruit Salad Ingredient B"
+            },
+            {
+                "quantity": "to taste",
+                "name": "Salt"
+            },
+            {
+                "quantity": "1 tbsp",
+                "name": "Oil"
+            }
+        ],
+        "description": "Synthetic recipe for Fruit Salad used for testing and analytics.",
+        "created_at": "2025-11-20T10:05:12Z",
+        "prep_time": 13,
+        "category": "Indian/International",
+        "cook_time": 39,
+        "steps": [
+            "Turn burner ON and place pan.",
+            "Add oil and sauté the base for Fruit Salad.",
+            "Add main ingredients and cook thoroughly.",
+            "Turn burner OFF and let rest",
+            "Serve hot."
+        ],
+        "difficulty": "Easy",
+        "recipe_id": "recipe19_fruit_salad",
+        "name": "Fruit Salad",
+        "id": "recipe19_fruit_salad"
+    },
+    {
+        "servings": 2,
+        "ingredients": [
+            {
+                "quantity": "200 g",
+                "name": "Paneer"
+            },
+            {
+                "quantity": "3 to 4, chopped",
+                "name": "Onion"
+            },
+            {
+                "quantity": "2, pureed",
+                "name": "Tomato"
+            },
+            {
+                "quantity": "2, slit",
+                "name": "Green Chillies"
+            },
+            {
+                "quantity": "1 tbsp",
+                "name": "Ginger-Garlic Paste"
+            },
+            {
+                "quantity": "1/4 tsp",
+                "name": "Turmeric Powder"
+            },
+            {
+                "quantity": "1/2 tsp",
+                "name": "Red Chilli Powder"
+            },
+            {
+                "quantity": "1 tbsp",
+                "name": "Coriander Powder"
+            },
+            {
+                "quantity": "1/2 tsp",
+                "name": "Garam Masala"
+            },
+            {
+                "quantity": "1 tsp",
+                "name": "Kasuri Methi"
+            },
+            {
+                "quantity": "30 g",
+                "name": "Curd"
+            },
+            {
+                "quantity": "1 tbsp (optional)",
+                "name": "Fresh Cream"
+            },
+            {
+                "quantity": "2 tbsp",
+                "name": "Oil"
+            },
+            {
+                "quantity": "to taste",
+                "name": "Salt"
+            },
+            {
+                "quantity": "3-4 sprigs",
+                "name": "Coriander Leaves"
+            },
+            {
+                "quantity": "3-4 cups",
+                "name": "Whole Wheat Flour (for chapati)"
+            },
+            {
+                "quantity": "2-3 cups (for dough)",
+                "name": "Water"
+            },
+            {
+                "quantity": "1 tsp optional",
+                "name": "Ghee / Oil (for cooking)"
+            },
+            {
+                "quantity": "for covering dough",
+                "name": "Wet cotton cloth"
+            }
+        ],
+        "description": "A rich and aromatic paneer curry served with fresh chapatis — classic home-style Indian meal.",
+        "created_at": "2025-11-20T10:05:12Z",
+        "prep_time": 25,
+        "category": "Indian",
+        "cook_time": 30,
+        "steps": [
+            "Turn the burner ON and place a heavy-bottomed pan on the burner.",
+            "Pour 2 tbsp oil into the pan and let it heat for 30-45 seconds.",
+            "Add 1 tsp cumin seeds and wait for them to crackle.",
+            "Add chopped onions and sauté on medium flame until they turn golden brown (about 6-8 minutes).",
+            "Add 1 tbsp ginger-garlic paste and sauté for 1 minute until raw smell disappears.",
+            "Add tomato puree, mix, and cook until oil starts separating from the masala (approx 6-8 minutes).",
+            "Add turmeric (1/4 tsp), red chilli (1/2 tsp), coriander powder (1 tbsp) and salt; stir and cook 1-2 minutes.",
+            "Turn the burner to LOW, add 30 g curd and stir continuously to avoid curdling.",
+            "Add 200 g paneer cubes, mix gently so paneer doesn’t break. Add 1/2 tsp garam masala and kasuri methi; simmer for 4-5 minutes on LOW.",
+            "Optional: add 1 tbsp fresh cream, mix and cook for 1 minute.",
+            "Turn the burner OFF and garnish with coriander leaves. Keep curry covered and warm.",
+            "For chapati: place a mixing bowl, add 3-4 cups whole wheat flour, a pinch of salt and 2-3 cups water gradually. Knead into a soft pliable dough.",
+            "Cover the dough with a wet cotton cloth and let it rest for 10 minutes.",
+            "After resting, divide dough into equal small balls, roll into flat discs using a rolling pin on a lightly floured surface.",
+            "Turn the burner ON and heat a tawa (flat griddle). Place the rolled chapati on the hot tawa.",
+            "Cook until small bubbles form, flip and cook the other side until brown spots appear. Apply a little ghee or oil if desired.",
+            "Remove chapati, keep covered in a cloth to keep soft. Repeat for remaining dough.",
+            "Serve hot paneer curry with freshly made chapatis."
+        ],
+        "difficulty": "Medium",
+        "recipe_id": "recipe1_paneer_curry_with_chapati",
+        "name": "Paneer Curry with Chapati",
+        "id": "recipe1_paneer_curry_with_chapati"
+    },
+    {
+        "servings": 1,
+        "ingredients": [
+            {
+                "quantity": "1 unit",
+                "name": "Jeera Rice Ingredient A"
+            },
+            {
+                "quantity": "2 units",
+                "name": "Jeera Rice Ingredient B"
+            },
+            {
+                "quantity": "to taste",
+                "name": "Salt"
+            },
+            {
+                "quantity": "1 tbsp",
+                "name": "Oil"
+            }
+        ],
+        "description": "Synthetic recipe for Jeera Rice used for testing and analytics.",
+        "created_at": "2025-11-20T10:05:12Z",
+        "prep_time": 27,
+        "category": "International",
+        "cook_time": 54,
+        "steps": [
+            "Turn burner ON and place pan.",
+            "Add oil and sauté the base for Jeera Rice.",
+            "Add main ingredients and cook thoroughly.",
+            "Turn burner OFF and let rest",
+            "Serve hot."
+        ],
+        "difficulty": "Hard",
+        "recipe_id": "recipe20_jeera_rice",
+        "name": "Jeera Rice",
+        "id": "recipe20_jeera_rice"
+    },
+    {
+        "servings": 2,
+        "ingredients": [
+            {
+                "quantity": "1 unit",
+                "name": "Curd Rice Ingredient A"
+            },
+            {
+                "quantity": "2 units",
+                "name": "Curd Rice Ingredient B"
+            },
+            {
+                "quantity": "to taste",
+                "name": "Salt"
+            },
+            {
+                "quantity": "1 tbsp",
+                "name": "Oil"
+            }
+        ],
+        "description": "Synthetic recipe for Curd Rice used for testing and analytics.",
+        "created_at": "2025-11-20T10:05:13Z",
+        "prep_time": 40,
+        "category": "Indian",
+        "cook_time": 34,
+        "steps": [
+            "Turn burner ON and place pan.",
+            "Add oil and sauté the base for Curd Rice.",
+            "Add main ingredients and cook thoroughly.",
+            "Turn burner OFF and let rest",
+            "Serve hot."
+        ],
+        "difficulty": "Medium",
+        "recipe_id": "recipe21_curd_rice",
+        "name": "Curd Rice",
+        "id": "recipe21_curd_rice"
+    },
+    {
+        "servings": 1,
+        "ingredients": [
+            {
+                "quantity": "1 unit",
+                "name": "Veg Fried Rice Ingredient A"
+            },
+            {
+                "quantity": "2 units",
+                "name": "Veg Fried Rice Ingredient B"
+            },
+            {
+                "quantity": "to taste",
+                "name": "Salt"
+            },
+            {
+                "quantity": "1 tbsp",
+                "name": "Oil"
+            }
+        ],
+        "description": "Synthetic recipe for Veg Fried Rice used for testing and analytics.",
+        "created_at": "2025-11-20T10:05:12Z",
+        "prep_time": 40,
+        "category": "International",
+        "cook_time": 34,
+        "steps": [
+            "Turn burner ON and place pan.",
+            "Add oil and sauté the base for Veg Fried Rice.",
+            "Add main ingredients and cook thoroughly.",
+            "Turn burner OFF and let rest",
+            "Serve hot."
+        ],
+        "difficulty": "Hard",
+        "recipe_id": "recipe2_veg_fried_rice",
+        "name": "Veg Fried Rice",
+        "id": "recipe2_veg_fried_rice"
+    },
+    {
+        "servings": 3,
+        "ingredients": [
+            {
+                "quantity": "1 unit",
+                "name": "Masala Dosa Ingredient A"
+            },
+            {
+                "quantity": "2 units",
+                "name": "Masala Dosa Ingredient B"
+            },
+            {
+                "quantity": "to taste",
+                "name": "Salt"
+            },
+            {
+                "quantity": "1 tbsp",
+                "name": "Oil"
+            }
+        ],
+        "description": "Synthetic recipe for Masala Dosa used for testing and analytics.",
+        "created_at": "2025-11-20T10:05:12Z",
+        "prep_time": 18,
+        "category": "Indian/International",
+        "cook_time": 59,
+        "steps": [
+            "Turn burner ON and place pan.",
+            "Add oil and sauté the base for Masala Dosa.",
+            "Add main ingredients and cook thoroughly.",
+            "Turn burner OFF and let rest",
+            "Serve hot."
+        ],
+        "difficulty": "Medium",
+        "recipe_id": "recipe3_masala_dosa",
+        "name": "Masala Dosa",
+        "id": "recipe3_masala_dosa"
+    },
+    {
+        "servings": 6,
+        "ingredients": [
+            {
+                "quantity": "1 unit",
+                "name": "Aloo Paratha Ingredient A"
+            },
+            {
+                "quantity": "2 units",
+                "name": "Aloo Paratha Ingredient B"
+            },
+            {
+                "quantity": "to taste",
+                "name": "Salt"
+            },
+            {
+                "quantity": "1 tbsp",
+                "name": "Oil"
+            }
+        ],
+        "description": "Synthetic recipe for Aloo Paratha used for testing and analytics.",
+        "created_at": "2025-11-20T10:05:12Z",
+        "prep_time": 33,
+        "category": "Indian/International",
+        "cook_time": 43,
+        "steps": [
+            "Turn burner ON and place pan.",
+            "Add oil and sauté the base for Aloo Paratha.",
+            "Add main ingredients and cook thoroughly.",
+            "Turn burner OFF and let rest",
+            "Serve hot."
+        ],
+        "difficulty": "Medium",
+        "recipe_id": "recipe4_aloo_paratha",
+        "name": "Aloo Paratha",
+        "id": "recipe4_aloo_paratha"
+    },
+    {
+        "servings": 5,
+        "ingredients": [
+            {
+                "quantity": "1 unit",
+                "name": "Chicken Curry Ingredient A"
+            },
+            {
+                "quantity": "2 units",
+                "name": "Chicken Curry Ingredient B"
+            },
+            {
+                "quantity": "to taste",
+                "name": "Salt"
+            },
+            {
+                "quantity": "1 tbsp",
+                "name": "Oil"
+            }
+        ],
+        "description": "Synthetic recipe for Chicken Curry used for testing and analytics.",
+        "created_at": "2025-11-20T10:05:12Z",
+        "prep_time": 28,
+        "category": "Indian",
+        "cook_time": 53,
+        "steps": [
+            "Turn burner ON and place pan.",
+            "Add oil and sauté the base for Chicken Curry.",
+            "Add main ingredients and cook thoroughly.",
+            "Turn burner OFF and let rest",
+            "Serve hot."
+        ],
+        "difficulty": "Medium",
+        "recipe_id": "recipe5_chicken_curry",
+        "name": "Chicken Curry",
+        "id": "recipe5_chicken_curry"
+    },
+    {
+        "servings": 5,
+        "ingredients": [
+            {
+                "quantity": "1 unit",
+                "name": "Egg Bhurji Ingredient A"
+            },
+            {
+                "quantity": "2 units",
+                "name": "Egg Bhurji Ingredient B"
+            },
+            {
+                "quantity": "to taste",
+                "name": "Salt"
+            },
+            {
+                "quantity": "1 tbsp",
+                "name": "Oil"
+            }
+        ],
+        "description": "Synthetic recipe for Egg Bhurji used for testing and analytics.",
+        "created_at": "2025-11-20T10:05:12Z",
+        "prep_time": 25,
+        "category": "Indian/International",
+        "cook_time": 8,
+        "steps": [
+            "Turn burner ON and place pan.",
+            "Add oil and sauté the base for Egg Bhurji.",
+            "Add main ingredients and cook thoroughly.",
+            "Turn burner OFF and let rest",
+            "Serve hot."
+        ],
+        "difficulty": "Medium",
+        "recipe_id": "recipe6_egg_bhurji",
+        "name": "Egg Bhurji",
+        "id": "recipe6_egg_bhurji"
+    },
+    {
+        "servings": 2,
+        "ingredients": [
+            {
+                "quantity": "1 unit",
+                "name": "Dal Tadka Ingredient A"
+            },
+            {
+                "quantity": "2 units",
+                "name": "Dal Tadka Ingredient B"
+            },
+            {
+                "quantity": "to taste",
+                "name": "Salt"
+            },
+            {
+                "quantity": "1 tbsp",
+                "name": "Oil"
+            }
+        ],
+        "description": "Synthetic recipe for Dal Tadka used for testing and analytics.",
+        "created_at": "2025-11-20T10:05:12Z",
+        "prep_time": 28,
+        "category": "Indian",
+        "cook_time": 30,
+        "steps": [
+            "Turn burner ON and place pan.",
+            "Add oil and sauté the base for Dal Tadka.",
+            "Add main ingredients and cook thoroughly.",
+            "Turn burner OFF and let rest",
+            "Serve hot."
+        ],
+        "difficulty": "Medium",
+        "recipe_id": "recipe7_dal_tadka",
+        "name": "Dal Tadka",
+        "id": "recipe7_dal_tadka"
+    },
+    {
+        "servings": 3,
+        "ingredients": [
+            {
+                "quantity": "1 unit",
+                "name": "Chole Bhature Ingredient A"
+            },
+            {
+                "quantity": "2 units",
+                "name": "Chole Bhature Ingredient B"
+            },
+            {
+                "quantity": "to taste",
+                "name": "Salt"
+            },
+            {
+                "quantity": "1 tbsp",
+                "name": "Oil"
+            }
+        ],
+        "description": "Synthetic recipe for Chole Bhature used for testing and analytics.",
+        "created_at": "2025-11-20T10:05:12Z",
+        "prep_time": 9,
+        "category": "International",
+        "cook_time": 59,
+        "steps": [
+            "Turn burner ON and place pan.",
+            "Add oil and sauté the base for Chole Bhature.",
+            "Add main ingredients and cook thoroughly.",
+            "Turn burner OFF and let rest",
+            "Serve hot."
+        ],
+        "difficulty": "Easy",
+        "recipe_id": "recipe8_chole_bhature",
+        "name": "Chole Bhature",
+        "id": "recipe8_chole_bhature"
+    },
+    {
+        "servings": 1,
+        "ingredients": [
+            {
+                "quantity": "1 unit",
+                "name": "Pasta Alfredo Ingredient A"
+            },
+            {
+                "quantity": "2 units",
+                "name": "Pasta Alfredo Ingredient B"
+            },
+            {
+                "quantity": "to taste",
+                "name": "Salt"
+            },
+            {
+                "quantity": "1 tbsp",
+                "name": "Oil"
+            }
+        ],
+        "description": "Synthetic recipe for Pasta Alfredo used for testing and analytics.",
+        "created_at": "2025-11-20T10:05:12Z",
+        "prep_time": 35,
+        "category": "International",
+        "cook_time": 54,
+        "steps": [
+            "Turn burner ON and place pan.",
+            "Add oil and sauté the base for Pasta Alfredo.",
+            "Add main ingredients and cook thoroughly.",
+            "Turn burner OFF and let rest",
+            "Serve hot."
+        ],
+        "difficulty": "Hard",
+        "recipe_id": "recipe9_pasta_alfredo",
+        "name": "Pasta Alfredo",
+        "id": "recipe9_pasta_alfredo"
+    }
+]

@@ -1,0 +1,22 @@
+recipe_id,name,category,prep_time,cook_time,servings,difficulty
+recipe10_veg_biryani,Veg Biryani,Indian/International,13,25,5,Easy
+recipe11_sambar_rice,Sambar Rice,Indian/International,23,55,3,Easy
+recipe12_poha,Poha,Indian/International,30,34,3,Easy
+recipe13_upma,Upma,Indian,22,26,3,Medium
+recipe14_roti_sabzi,Roti Sabzi,International,30,11,3,Easy
+recipe15_paneer_butter_masala,Paneer Butter Masala,Indian,10,22,5,Easy
+recipe16_mixed_veg_curry,Mixed Veg Curry,International,15,43,3,Medium
+recipe17_tomato_soup,Tomato Soup,International,13,44,1,Hard
+recipe18_veg_sandwich,Veg Sandwich,Indian,24,7,5,Easy
+recipe19_fruit_salad,Fruit Salad,Indian/International,13,39,2,Easy
+recipe1_paneer_curry_with_chapati,Paneer Curry with Chapati,Indian,25,30,2,Medium
+recipe20_jeera_rice,Jeera Rice,International,27,54,1,Hard
+recipe21_curd_rice,Curd Rice,Indian,40,34,2,Medium
+recipe2_veg_fried_rice,Veg Fried Rice,International,40,34,1,Hard
+recipe3_masala_dosa,Masala Dosa,Indian/International,18,59,3,Medium
+recipe4_aloo_paratha,Aloo Paratha,Indian/International,33,43,6,Medium
+recipe5_chicken_curry,Chicken Curry,Indian,28,53,5,Medium
+recipe6_egg_bhurji,Egg Bhurji,Indian/International,25,8,5,Medium
+recipe7_dal_tadka,Dal Tadka,Indian,28,30,2,Medium
+recipe8_chole_bhature,Chole Bhature,International,9,59,3,Easy
+recipe9_pasta_alfredo,Pasta Alfredo,International,35,54,1,Hard
