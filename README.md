@@ -1,6 +1,10 @@
 **Recipe Data ETL and Analytics Pipeline**
 ==============================
 
+
+  <img src="images/main_image.png" width="30%">
+
+
 **Author:** Tanya Nigam <br>
 
 **Role:** Data Engineer <br>
@@ -721,25 +725,8 @@ Roti Sabzi                   191"
 
    ![alt text](images/most_liked_recipes.png) 
 
-   **Prep Time Distribution**
 
-  ![alt text](images/prep_time_distribution.png) 
-
-  **Prep vs Likes**
-
-  ![alt text](images/prep_vs_likes.png) 
-
-  **High Engagement Inngredients**
-
- ![alt text](images/high_engagement_ingredients.png)  
-
- **Top Rated Recipes**
-
- ![alt text](images/high_engagement_ingredients.png)
  
-
-
-  
 * * * * *
 
 **4.5 Troubleshooting**
@@ -1056,3 +1043,4 @@ This project successfully demonstrates a complete end-to-end **ETL and Analytics
 The architecture showcases how real-world data projects handle diverse challenges such as missing fields, inconsistent formats, and quality enforcement. Visualization outputs such as ingredient frequency charts, engagement comparisons, and difficulty distributions help translate raw data into actionable knowledge. The system design also lays a strong foundation for future enhancements such as automated cloud pipelines, real-time sync, recommendation engines, and dashboard reporting.
 
 Overall, this project illustrates the practical integration of **data engineering**, **data quality validation**, and **exploratory analytics**, demonstrating how raw application data can be transformed into meaningful insights that support better decision-making, improved user experiences, and scalable data workflows.
+
